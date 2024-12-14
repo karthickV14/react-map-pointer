@@ -10,11 +10,11 @@ const Sidebar = () => {
       <AppNav />
       <Outlet />
 
-      <fooder className={styles.footer}>
+      <footer className={styles.footer}>
         <p className={styles.copyright}>
           &copy; Copyright {new Date().getFullYear()} by Map Pointer Pte Ltd.
         </p>
-      </fooder>
+      </footer>
     </div>
   );
 };
