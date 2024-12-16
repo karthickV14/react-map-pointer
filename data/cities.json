@@ -13,87 +13,27 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "5fb3",
-      "cityName": "Bengaluru",
+      "id": "38db",
+      "cityName": "Puducherry",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-12-14T09:59:28.065Z",
-      "notes": "Nice City",
+      "date": "2024-12-15T16:28:58.773Z",
+      "notes": "Sarakku ",
       "position": {
-        "lat": "12.942393562852297",
-        "lng": "77.5898466914482"
+        "lat": "11.954385737120676",
+        "lng": "79.83982596501626"
       }
     },
     {
-      "id": "32aa",
-      "cityName": "Bengaluru",
+      "id": "f285",
+      "cityName": "Uttamapalaiyam",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-12-11T10:00:16.000Z",
-      "notes": "Some Event",
+      "date": "2024-12-16T11:34:32.236Z",
+      "notes": "My sister's home",
       "position": {
-        "lat": "12.952008640308986",
-        "lng": "77.57291625098782"
-      }
-    },
-    {
-      "id": "debe",
-      "cityName": "Nellore",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-12-14T10:04:46.863Z",
-      "notes": "Sharuk hometown",
-      "position": {
-        "lat": "14.39267387140484",
-        "lng": "79.99434771225727"
-      }
-    },
-    {
-      "id": "3db6",
-      "cityName": "Sadabad",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-12-14T10:10:56.785Z",
-      "notes": "Agra",
-      "position": {
-        "lat": "27.37180348191353",
-        "lng": "78.00292968750001"
-      }
-    },
-    {
-      "id": "9306",
-      "cityName": "Medina",
-      "country": "Saudi Arabia",
-      "emoji": "🇸🇦",
-      "date": "2024-12-14T10:12:11.511Z",
-      "notes": "somewere",
-      "position": {
-        "lat": "24.425442008371014",
-        "lng": "39.59472656250001"
+        "lat": "9.68329144208053",
+        "lng": "77.23905080139308"
       }
     }
   ]
