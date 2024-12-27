@@ -47,6 +47,66 @@
         "lat": "12.974507504235932",
         "lng": "80.19574284553529"
       }
+    },
+    {
+      "id": "c526",
+      "cityName": "Guangzhou",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2028-02-14T07:14:13.000Z",
+      "notes": "Love to visit this place",
+      "position": {
+        "lat": "23.101080985748265",
+        "lng": "113.25805664062501"
+      }
+    },
+    {
+      "id": "6dca",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2028-02-14T07:15:59.000Z",
+      "notes": "Love this place",
+      "position": {
+        "lat": "35.67658713984824",
+        "lng": "139.72412109375003"
+      }
+    },
+    {
+      "id": "eae3",
+      "cityName": "Kuwait City",
+      "country": "Kuwait",
+      "emoji": "🇰🇼",
+      "date": "2027-01-16T07:18:17.000Z",
+      "notes": "valzhu",
+      "position": {
+        "lat": "29.360707257984945",
+        "lng": "47.97454833984376"
+      }
+    },
+    {
+      "id": "7ae8",
+      "cityName": "Dubai",
+      "country": "United Arab Emirates (the)",
+      "emoji": "🇦🇪",
+      "date": "2024-12-25T07:20:08.005Z",
+      "notes": "Vicky anna ",
+      "position": {
+        "lat": "25.235254472537598",
+        "lng": "55.31066894531251"
+      }
+    },
+    {
+      "id": "69d1",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-12-27T14:01:39.666Z",
+      "notes": "h",
+      "position": {
+        "lat": "40.00129512098017",
+        "lng": "-0.0010299682617187502"
+      }
     }
   ]
 }
